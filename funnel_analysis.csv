@@ -1,0 +1,5 @@
+event_type,unique_users,conversion_rate
+login,199,1.0
+view_item,200,1.01
+add_to_cart,199,1.0
+purchase,200,1.01

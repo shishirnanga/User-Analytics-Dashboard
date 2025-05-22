@@ -1,0 +1,6 @@
+event_id,event_type
+1,add_to_cart
+2,logout
+3,purchase
+4,login
+5,view_item
